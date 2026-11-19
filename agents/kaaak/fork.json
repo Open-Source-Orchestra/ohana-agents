@@ -1,0 +1,14 @@
+{
+  "slug": "kaaak",
+  "name": "KAAAK!!! 🐦‍⬛",
+  "parent": "sysadmin",
+  "tree_root": "sysadmin",
+  "born": "2026-07-26",
+  "forked_from": null,
+  "forks": [],
+  "lineage": [
+    "shaka",
+    "sysadmin",
+    "kaaak"
+  ]
+}

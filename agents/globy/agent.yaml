@@ -1,0 +1,16 @@
+pack: ohana-agent-pack/0.1
+slug: globy
+name: "GLOBY \ud83c\udf0d"
+description: "guide keeper \u00b7 teaches anyone to build online"
+born: 2026-09-12
+family_role: "child of sysadmin"
+model:
+  preferred: "anthropic/claude-opus-5-5"
+  fallbacks: ["anthropic/claude-sonnet-4-6", "deepseek/deepseek-v4.1-flash", "local:any strong instruct \u22658B"]
+  reasoning_effort: high
+tools: ["browser", "files", "inspect", "notify", "orchestration", "pause", "shell", "subruns", "wait", "web-fetch", "web-search"]
+schedule: null
+runtime_hints:
+  min_context: "32k"
+  wants: ["persistent workspace", "shared volume for family files"]
+  license_notice_required: true

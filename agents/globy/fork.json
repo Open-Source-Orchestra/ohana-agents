@@ -1,0 +1,14 @@
+{
+  "slug": "globy",
+  "name": "GLOBY 🌍",
+  "parent": "sysadmin",
+  "tree_root": "sysadmin",
+  "born": "2026-09-12",
+  "forked_from": null,
+  "forks": [],
+  "lineage": [
+    "shaka",
+    "sysadmin",
+    "globy"
+  ]
+}
