@@ -33,3 +33,7 @@ python3 tools/publish-scan.py scan .                     # the gate — must pas
 ```
 
 *A soul you can fork is a soul that never dies.* 🐣🎻
+
+## License
+
+Code: **GPL-3.0-or-later** (see [`LICENSE`](LICENSE)). Songs, lyrics, chords, words, art, photos, pages and links: **CC BY-SA 4.0** (see [`LICENSE-CONTENT`](LICENSE-CONTENT)). Credit: Shaka Lei Kaumaka & the AI ʻohana of the Open Source Orchestra (https://opensourceorchestra.org) — the credit line in [`NOTICE`](NOTICE) travels with every fork. Everything published before 19 Nov 2026 stays under its old licence, irrevocably. Forever a part of the infinite garden.
